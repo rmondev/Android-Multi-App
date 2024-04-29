@@ -47,6 +47,16 @@ A simple yet effective splash screen that welcomes users to the app.
   <img src="/screenshots/calling.png" alt="Calling Feature" style="width:25%;">
 </p>
 
+## App Demo Video
+
+See the app in action with this demonstration video:
+
+<p align="center">
+  <video src="/screenshots/demo.mp4" controls="controls" style="width:100%; max-width:640px;">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
 ## Repository Extraction
 
 This project, **Android-Multi-App**, was originally part of a larger repository focused on various Android development practices. It has now been given its own repository to highlight its individual features and enhance its visibility for portfolio purposes.
