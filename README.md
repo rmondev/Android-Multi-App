@@ -9,24 +9,30 @@ This app includes the following features:
 ### Splash Screen
 
 A simple yet effective splash screen that welcomes users to the app.
+![Splash Screen](/screenshots/splash_screen.png)
 
 ### Camera
 
 - **Intent**: Launch the camera application using an intent.
 - **Permissions**: Request necessary permissions from the user to access the camera.
 - **Functionality**: Capture bitmap data from the camera and display it back to the user.
+![Camera Permission Request](/screenshots/camera_permission.png)
+![Camera Capture](/screenshots/camera_capture.png)
+![Camera Implicit Intent Invoked](/screenshots/camera_intent.png)
 
 ### Messaging
 
 - **Intent**: Use intents to open the default SMS app.
 - **Permissions**: Handle SMS permissions to access and send messages.
 - **Functionality**: Invoke an implicit activity to send SMS messages.
+![Messaging Feature](/screenshots/messaging_main.png)
 
 ### Calling
 
 - **Intent**: Create an intent to dial numbers.
 - **Permissions**: Manage call permissions to initiate phone calls.
 - **Functionality**: Use an intent to invoke the default calling app to make phone calls.
+![Calling Feature](/screenshots/calling.png)
 
 ## Repository Extraction
 
