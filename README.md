@@ -51,7 +51,7 @@ A simple yet effective splash screen that welcomes users to the app.
 
 See the app in action with this demonstration video:
 
-https://https://github.com/rmondev/Android-Multi-App/blob/master/screenshots/demo.mp4
+https://github.com/rmondev/Android-Multi-App/assets/85075744/0e0a9581-ac8a-45b6-bf99-9a1e15470409
 
 ## Repository Extraction
 
