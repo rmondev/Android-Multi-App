@@ -51,11 +51,7 @@ A simple yet effective splash screen that welcomes users to the app.
 
 See the app in action with this demonstration video:
 
-<p align="center">
-  <video src="/screenshots/demo.mp4" controls="controls" style="width:100%; max-width:640px;">
-    Your browser does not support the video tag.
-  </video>
-</p>
+https://https://github.com/rmondev/Android-Multi-App/blob/master/screenshots/demo.mp4
 
 ## Repository Extraction
 
