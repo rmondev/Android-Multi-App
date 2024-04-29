@@ -17,8 +17,8 @@ A simple yet effective splash screen that welcomes users to the app.
 - **Permissions**: Request necessary permissions from the user to access the camera.
 - **Functionality**: Capture bitmap data from the camera and display it back to the user.
 ![Camera Permission Request](/screenshots/camera_permission.png)
-![Camera Capture](/screenshots/camera_capture.png)
 ![Camera Implicit Intent Invoked](/screenshots/camera_intent.png)
+![Camera Capture](/screenshots/camera_capture.png)
 
 ### Messaging
 
