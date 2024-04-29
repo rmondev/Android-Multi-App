@@ -11,7 +11,7 @@ This app includes the following features:
 A simple yet effective splash screen that welcomes users to the app.
 
 <p align="center">
-  <img src="/screenshots/splash_screen.png" alt="Splash Screen" style="width:75%;">
+  <img src="/screenshots/splash_screen.png" alt="Splash Screen" style="width:15%;">
 </p>
 
 ### Camera
@@ -21,9 +21,9 @@ A simple yet effective splash screen that welcomes users to the app.
 - **Functionality**: Capture bitmap data from the camera and display it back to the user.
 
 <p align="center">
-  <img src="/screenshots/camera_permission.png" alt="Camera Permission Request" style="width:50%;">
-  <img src="/screenshots/camera_intent.png" alt="Camera Implicit Intent Invoked" style="width:50%;">
-  <img src="/screenshots/camera_capture.png" alt="Camera Capture" style="width:50%;">
+  <img src="/screenshots/camera_permission.png" alt="Camera Permission Request" style="width:15%;">
+  <img src="/screenshots/camera_intent.png" alt="Camera Implicit Intent Invoked" style="width:15%;">
+  <img src="/screenshots/camera_capture.png" alt="Camera Capture" style="width:15%;">
 </p>
 
 ### Messaging
@@ -33,7 +33,7 @@ A simple yet effective splash screen that welcomes users to the app.
 - **Functionality**: Invoke an implicit activity to send SMS messages.
 
 <p align="center">
-  <img src="/screenshots/messaging_main.png" alt="Messaging Feature" style="width:50%;">
+  <img src="/screenshots/messaging_main.png" alt="Messaging Feature" style="width:15%;">
 </p>
 
 ### Calling
@@ -43,7 +43,7 @@ A simple yet effective splash screen that welcomes users to the app.
 - **Functionality**: Use an intent to invoke the default calling app to make phone calls.
 
 <p align="center">
-  <img src="/screenshots/calling.png" alt="Calling Feature" style="width:50%;">
+  <img src="/screenshots/calling.png" alt="Calling Feature" style="width:15%;">
 </p>
 
 ## Repository Extraction
