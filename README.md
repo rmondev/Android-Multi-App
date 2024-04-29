@@ -11,7 +11,7 @@ This app includes the following features:
 A simple yet effective splash screen that welcomes users to the app.
 
 <p align="center">
-  <img src="/screenshots/splash_screen.png" alt="Splash Screen" style="width:50%;">
+  <img src="/screenshots/splash_screen.png" alt="Splash Screen" style="width:75%;">
 </p>
 
 ### Camera
