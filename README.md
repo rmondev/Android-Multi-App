@@ -12,7 +12,7 @@ A simple yet effective splash screen that welcomes users to the app.
 
 <p align="center">
   <img src="/screenshots/splash_screen.png" alt="Splash Screen" style="width:25%;">
-  <img src="/screenshots/app_selection.png" alt="App Selection Screen" style="width:23.5%;">
+  <img src="/screenshots/app_selection.png" alt="App Selection Screen" style="width:24%;">
 </p>
 
 ### Camera
