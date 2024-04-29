@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/splash_bg_gradient"
+    tools:context=".app_selection_activity">
+
+    <Button
+        android:id="@+id/btnCameraApp"
+        android:layout_width="248dp"
+        android:layout_height="56dp"
+        android:layout_margin="16dp"
+        android:backgroundTint="#F29E5E"
+        android:text="Selfie Centric"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/btnCallingApp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnMessagingApp"
+        app:layout_constraintVertical_bias="0.222" />
+
+    <Button
+        android:id="@+id/btnCallingApp"
+        android:layout_width="248dp"
+        android:layout_height="56dp"
+        android:layout_margin="16dp"
+        android:backgroundTint="#F29E5E"
+        android:text="Call Me, Maybe?"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/btnExit"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnCameraApp" />
+
+    <Button
+        android:id="@+id/btnMessagingApp"
+        android:layout_width="248dp"
+        android:layout_height="56dp"
+        android:layout_margin="16dp"
+        android:layout_marginTop="48dp"
+        android:backgroundTint="#F29E5E"
+        android:text="You Mess Me?"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/btnCameraApp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvSelectionTitle" />
+
+    <TextView
+        android:id="@+id/tvSelectionTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="48dp"
+        android:fontFamily="@font/aclonica"
+        android:text="Select An App"
+        android:textColor="#F29E5E"
+        android:textSize="48sp"
+        app:layout_constraintBottom_toTopOf="@+id/btnMessagingApp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnExit"
+        android:layout_width="148dp"
+        android:layout_height="56dp"
+        android:layout_margin="16dp"
+        android:layout_marginTop="48dp"
+        android:backgroundTint="#F29E5E"
+        android:text="Exit"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnCallingApp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
