@@ -9,30 +9,42 @@ This app includes the following features:
 ### Splash Screen
 
 A simple yet effective splash screen that welcomes users to the app.
-![Splash Screen](/screenshots/splash_screen.png)
+
+<p align="center">
+  <img src="/screenshots/splash_screen.png" alt="Splash Screen" style="width:50%;">
+</p>
 
 ### Camera
 
 - **Intent**: Launch the camera application using an intent.
 - **Permissions**: Request necessary permissions from the user to access the camera.
 - **Functionality**: Capture bitmap data from the camera and display it back to the user.
-![Camera Permission Request](/screenshots/camera_permission.png)
-![Camera Implicit Intent Invoked](/screenshots/camera_intent.png)
-![Camera Capture](/screenshots/camera_capture.png)
+
+<p align="center">
+  <img src="/screenshots/camera_permission.png" alt="Camera Permission Request" style="width:50%;">
+  <img src="/screenshots/camera_intent.png" alt="Camera Implicit Intent Invoked" style="width:50%;">
+  <img src="/screenshots/camera_capture.png" alt="Camera Capture" style="width:50%;">
+</p>
 
 ### Messaging
 
 - **Intent**: Use intents to open the default SMS app.
 - **Permissions**: Handle SMS permissions to access and send messages.
 - **Functionality**: Invoke an implicit activity to send SMS messages.
-![Messaging Feature](/screenshots/messaging_main.png)
+
+<p align="center">
+  <img src="/screenshots/messaging_main.png" alt="Messaging Feature" style="width:50%;">
+</p>
 
 ### Calling
 
 - **Intent**: Create an intent to dial numbers.
 - **Permissions**: Manage call permissions to initiate phone calls.
 - **Functionality**: Use an intent to invoke the default calling app to make phone calls.
-![Calling Feature](/screenshots/calling.png)
+
+<p align="center">
+  <img src="/screenshots/calling.png" alt="Calling Feature" style="width:50%;">
+</p>
 
 ## Repository Extraction
 
