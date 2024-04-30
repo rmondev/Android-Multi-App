@@ -1,6 +1,6 @@
 # Android Multi App
 
-A multi-feature Android application that showcases various functionalities. This project has been extracted from a larger Android development repository for focused development, easier management, and portfolio showcasing.
+A multi-feature Android application that showcases various functionalities such as Camera, Phone and Messaging intents. This project has been extracted from a larger Android development repository for focused development, easier management, and portfolio showcasing.
 
 ## Features
 
